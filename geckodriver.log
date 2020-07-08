@@ -1,0 +1,20 @@
+1594191608253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePZz9Vd"
+1594191610966	Marionette	INFO	Listening on port 42181
+1594191611059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1594191762885	Marionette	INFO	Stopped listening on port 42181
+1594191764489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuBAugt"
+1594191767367	Marionette	INFO	Listening on port 44013
+1594191767395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/Mn3FmW9-i-5.js?_nc_x=ohnv_PZ7GWY, line 42: unreachable code after return statement
